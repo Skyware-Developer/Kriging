@@ -1,7 +1,7 @@
 package bean;
 
 /**
- * 格网点数据
+ * Grid point data
  * @author admin
  *
  */

@@ -10,7 +10,7 @@ import in_and_out.Input;
 public class meshing {
 	
 	/**
-	 * 确定栅格网点的坐标
+	 * Determine the coordinates of grid points
 	 * @return
 	 */
 	public static ArrayList<DEM_Point> border()

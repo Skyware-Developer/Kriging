@@ -16,7 +16,7 @@ public class Input {
 	 */	
 	public static ArrayList<ArrayList<DEM_Point>> readFile()
 	{
-		File file = new File("D:\\java项目\\my_project\\file\\data.txt");
+		File file = new File("C:\\users\\gabriel\\git\\kriging\\file\\data.txt");
 		BufferedReader reader= null;
 		
 		ArrayList<ArrayList<DEM_Point>> sum= null;//动态二维数组sum
